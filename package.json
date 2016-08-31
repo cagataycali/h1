@@ -1,6 +1,6 @@
 {
   "name": "h1",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Hi for every human!",
   "main": "index.js",
   "scripts": {
