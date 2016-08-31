@@ -1,0 +1,18 @@
+{
+  "name": "h1",
+  "version": "1.0.1",
+  "description": "Hi for every human!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "H1"
+  ],
+  "author": "Çağatay Çalı",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "node-emoji": "^1.3.1"
+  }
+}
